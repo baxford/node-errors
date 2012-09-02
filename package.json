@@ -1,0 +1,17 @@
+{
+  "name": "node-errors",
+  "version": "0.0.1",
+  "description": "Centralised error handling",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "make"
+  },
+  "repository": "git@github.com:baxford/node-errors.git",
+  "keywords": [
+    "error",
+    "handling"
+  ],
+  "author": "bob@figjamit.com.au",
+  "license": "BSD"
+}
